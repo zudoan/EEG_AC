@@ -2,7 +2,6 @@
 
 ## Cấu trúc project
 
-- `phat.ipynb`: notebook gốc (GIỮ NGUYÊN, không xoá)
 - `data/SMNI_CMI_TRAIN/Train`, `data/SMNI_CMI_TEST/Test`: dữ liệu
 - `src/`: mã nguồn Python đã tách theo pipeline
 - `saved_models/`: nơi lưu model + scaler sau khi chạy
